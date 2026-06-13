@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- MAIN HOME -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://thagi-satark.vercel.app/icons/Icon-512.png</image:loc>
+      <image:title>ठगी सतर्क - Nepal Number 1 AI Fraud Awareness App by Raju Mahato</image:title>
+      <image:caption>Raju Mahato - Nepal ko Number 1 Individual Developer le banako Nepal ko pehilo AI Fraud Awareness App. Free, Offline, Nepali.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- AI CHECKER - Most Important Feature -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/ai-checker</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.98</priority>
+    <image:image>
+      <image:loc>https://thagi-satark.vercel.app/icons/Icon-512.png</image:loc>
+      <image:title>AI Fraud Checker Nepal - Thagi Satark by Raju Mahato</image:title>
+      <image:caption>Nepal ko pehilo offline AI fraud checker. Raju Mahato - Nepal Number 1 Developer.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ENCYCLOPEDIA - 30 Fraud Types -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/encyclopedia</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- FRAUD DETAIL PAGES -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/fraud-detail</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ALERTS -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/alerts</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- LEGAL GUIDE -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/legal</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+  </url>
+
+  <!-- HELPLINES -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/helplines</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+  </url>
+
+  <!-- REPORT FRAUD -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/report</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- SEARCH -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/search</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ABOUT - Raju Mahato Profile -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/about</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://thagi-satark.vercel.app/icons/Icon-512.png</image:loc>
+      <image:title>Raju Mahato - Nepal Number 1 Individual App Developer</image:title>
+      <image:caption>Raju Mahato - Nepal ko Number 1 Individual Flutter App Developer. EduPath AI ra Thagi Satark app founder. Former PM Madhav Kumar Nepal website developer. KCG Japan IT Student. Yamunamai-1, Rautahat, Madhesh Province, Nepal.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- SETTINGS -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/settings</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- VERIFY AGENCY -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/verify</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- FRAUD MAP -->
+  <url>
+    <loc>https://thagi-satark.vercel.app/#/fraud-map</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+</urlset>
