@@ -1,0 +1,333 @@
+﻿[
+  {
+    "id": "fraud_021",
+    "title_np": "नक्कली डाक्टर ठगी",
+    "title_en": "Fake Doctor Fraud",
+    "description_np": "नक्कली डाक्टर वा झारफुक गर्नेले गम्भीर रोग निको पार्ने भन्दै ठूलो रकम लिने ठगी। ग्रामीण क्षेत्रमा बढी देखिन्छ।",
+    "icon_path": "assets/icons/fake_doctor.png",
+    "severity": "critical",
+    "category": "health",
+    "report_count": 5430,
+    "red_flags": [
+      "100% निको हुने ग्यारेन्टी",
+      "NMC दर्ता नभएको",
+      "अस्पताल नभएको ठाउँमा",
+      "महँगो उपचार",
+      "परिवारलाई नभन्न लगाउने"
+    ],
+    "prevention_steps": [
+      "NMC दर्ता verify गर्नुस्",
+      "दर्ता भएको अस्पताल जानुस्",
+      "Second opinion लिनुस्",
+      "परिवारसँग सल्लाह गर्नुस्",
+      "सरकारी अस्पताल प्रयोग गर्नुस्"
+    ],
+    "recovery_steps": [
+      "Nepal Medical Council मा उजुरी दिनुस्",
+      "प्रहरीमा FIR दर्ता गर्नुस्",
+      "Evidence राख्नुस्",
+      "कानूनी सहायता लिनुस्"
+    ],
+    "law_reference": "स्वास्थ्य सेवा ऐन २०५३, दफा ३२",
+    "helpline_numbers": ["1800-01-8899", "100"],
+    "conclusion_np": "उपचारको लागि सधैं दर्ता भएको डाक्टरकहाँ जानुस्।"
+  },
+  {
+    "id": "fraud_022",
+    "title_np": "मोबाइल रिचार्ज ठगी",
+    "title_en": "Mobile Recharge Fraud",
+    "description_np": "मोबाइल रिचार्ज वा data pack को नाममा पैसा लिएर recharge नगर्ने वा नक्कली recharge app बाट पैसा चोर्ने ठगी।",
+    "icon_path": "assets/icons/recharge_fraud.png",
+    "severity": "low",
+    "category": "digital",
+    "report_count": 8920,
+    "red_flags": [
+      "Official app नभएको",
+      "Discount को लोभ",
+      "Unknown number बाट offer",
+      "Advance payment माग्ने",
+      "Receipt नदिने"
+    ],
+    "prevention_steps": [
+      "Official telecom app मात्र प्रयोग गर्नुस्",
+      "Verified retailer बाट किन्नुस्",
+      "Unknown offer मा विश्वास नगर्नुस्",
+      "Transaction receipt लिनुस्",
+      "Telecom customer care मा verify गर्नुस्"
+    ],
+    "recovery_steps": [
+      "Telecom customer care मा सम्पर्क गर्नुस्",
+      "Cyber Bureau: 1177 मा उजुरी दिनुस्",
+      "Transaction proof राख्नुस्",
+      "प्रहरीमा जानकारी दिनुस्"
+    ],
+    "law_reference": "इलेक्ट्रोनिक कारोबार ऐन २०६३, दफा ४७",
+    "helpline_numbers": ["1177", "100"],
+    "conclusion_np": "Recharge को लागि सधैं official app वा verified retailer प्रयोग गर्नुस्।"
+  },
+  {
+    "id": "fraud_023",
+    "title_np": "ऋण ठगी",
+    "title_en": "Loan Fraud",
+    "description_np": "कम ब्याजमा ऋण दिलाउने भन्दै processing fee, insurance fee वा अन्य शुल्क लिएर भाग्ने ठगी। बेरोजगार र आर्थिक संकटमा परेकाहरू बढी पीडित हुन्छन्।",
+    "icon_path": "assets/icons/loan_fraud.png",
+    "severity": "high",
+    "category": "financial",
+    "report_count": 6780,
+    "red_flags": [
+      "Collateral नचाहिने ऋण",
+      "Processing fee अग्रिम माग्ने",
+      "NRB दर्ता नभएको",
+      "धेरै कम ब्याज",
+      "तुरुन्त approve हुने भन्ने"
+    ],
+    "prevention_steps": [
+      "NRB दर्ता भएको संस्थाबाट मात्र ऋण लिनुस्",
+      "अग्रिम fee नतिर्नुस्",
+      "Terms and conditions राम्रोसँग पढ्नुस्",
+      "कानूनी सल्लाह लिनुस्",
+      "परिवारसँग सल्लाह गर्नुस्"
+    ],
+    "recovery_steps": [
+      "NRB: 1414 मा उजुरी दिनुस्",
+      "प्रहरीमा FIR दर्ता गर्नुस्",
+      "Transaction proof राख्नुस्",
+      "कानूनी सहायता लिनुस्"
+    ],
+    "law_reference": "बैंक तथा वित्तीय संस्था ऐन २०७३, दफा ९८",
+    "helpline_numbers": ["1414", "100"],
+    "conclusion_np": "वैध ऋणमा अग्रिम fee कहिल्यै लाग्दैन।"
+  },
+  {
+    "id": "fraud_024",
+    "title_np": "नक्कली सफ्टवेयर ठगी",
+    "title_en": "Fake Software Fraud",
+    "description_np": "नक्कली antivirus वा software बेच्ने, computer मा virus छ भनी डर देखाएर पैसा लिने वा Ransomware बाट data lock गरेर पैसा माग्ने ठगी।",
+    "icon_path": "assets/icons/fake_software.png",
+    "severity": "high",
+    "category": "digital",
+    "report_count": 4560,
+    "red_flags": [
+      "Virus alert popup आउने",
+      "Technical support call आउने",
+      "Remote access माग्ने",
+      "Cracked software download गर्न भन्ने",
+      "Bitcoin मा payment माग्ने"
+    ],
+    "prevention_steps": [
+      "Original software मात्र प्रयोग गर्नुस्",
+      "Popup alert मा click नगर्नुस्",
+      "Remote access नदिनुस्",
+      "Regular backup राख्नुस्",
+      "Reputable antivirus प्रयोग गर्नुस्"
+    ],
+    "recovery_steps": [
+      "Internet disconnect गर्नुस्",
+      "Cyber Bureau: 1177 मा उजुरी दिनुस्",
+      "IT expert को सहायता लिनुस्",
+      "Data backup restore गर्नुस्"
+    ],
+    "law_reference": "इलेक्ट्रोनिक कारोबार ऐन २०६३, दफा ४४",
+    "helpline_numbers": ["1177", "100"],
+    "conclusion_np": "Popup alert मा कहिल्यै click नगर्नुस् र Remote access नदिनुस्।"
+  },
+  {
+    "id": "fraud_025",
+    "title_np": "नक्कली पुरस्कार ठगी",
+    "title_en": "Fake Prize Fraud",
+    "description_np": "TV, Radio वा SMS मार्फत ठूलो पुरस्कार जितेको सूचना दिएर tax वा delivery charge भनी पैसा असुल्ने ठगी।",
+    "icon_path": "assets/icons/fake_prize.png",
+    "severity": "medium",
+    "category": "digital",
+    "report_count": 5670,
+    "red_flags": [
+      "नखेलेको competition जितेको",
+      "Tax वा fee तिर्न भन्ने",
+      "Personal info माग्ने",
+      "Claim गर्न deadline दिने",
+      "Unknown number बाट call"
+    ],
+    "prevention_steps": [
+      "नखेलेको competition जित्न असम्भव छ",
+      "Fee तिर्न कहिल्यै नमान्नुस्",
+      "Ignore गर्नुस्",
+      "परिवारलाई सूचित गर्नुस्",
+      "Telecom मा report गर्नुस्"
+    ],
+    "recovery_steps": [
+      "Cyber Bureau: 1177 मा उजुरी दिनुस्",
+      "Bank मा transaction रोक्का गर्नुस्",
+      "Screenshot evidence राख्नुस्",
+      "प्रहरीमा जानकारी दिनुस्"
+    ],
+    "law_reference": "मुलुकी अपराध संहिता २०७४, दफा ३०९",
+    "helpline_numbers": ["1177", "100"],
+    "conclusion_np": "नखेलेको competition जित्न असम्भव छ — यस्तो call ignore गर्नुस्।"
+  },
+  {
+    "id": "fraud_026",
+    "title_np": "Sextortion ठगी",
+    "title_en": "Sextortion Fraud",
+    "description_np": "Video call मा अश्लील video record गरेर वा personal photo प्राप्त गरेर पैसा नदिए public गर्ने धम्की दिने blackmail ठगी।",
+    "icon_path": "assets/icons/sextortion.png",
+    "severity": "critical",
+    "category": "digital",
+    "report_count": 3890,
+    "red_flags": [
+      "Unknown person ले video call गर्ने",
+      "Personal photo माग्ने",
+      "Screen record गर्ने",
+      "पैसा नदिए share गर्ने धम्की",
+      "Social media बाट approach"
+    ],
+    "prevention_steps": [
+      "Unknown person सँग video call नगर्नुस्",
+      "Personal photo share नगर्नुस्",
+      "Privacy settings tight राख्नुस्",
+      "Suspicious request block गर्नुस्",
+      "Screen share नगर्नुस्"
+    ],
+    "recovery_steps": [
+      "पैसा नतिर्नुस् — तिरे झन् माग्छ",
+      "Cyber Bureau: 1177 मा उजुरी दिनुस्",
+      "Evidence screenshot राख्नुस्",
+      "Account block गर्नुस्",
+      "मनोवैज्ञानिक सहायता लिनुस्"
+    ],
+    "law_reference": "इलेक्ट्रोनिक कारोबार ऐन २०६३, दफा ४७",
+    "helpline_numbers": ["1177", "1145"],
+    "conclusion_np": "Blackmail मा कहिल्यै पैसा नतिर्नुस् — Cyber Bureau मा उजुरी दिनुस्।"
+  },
+  {
+    "id": "fraud_027",
+    "title_np": "Multi-Level Marketing ठगी",
+    "title_en": "MLM Fraud",
+    "description_np": "Chain business वा network marketing को नाममा product किन्न लगाएर र अरूलाई recruit गरेपछि मात्र पैसा पाइने भन्दै ठग्ने pyramid scheme।",
+    "icon_path": "assets/icons/mlm_fraud.png",
+    "severity": "high",
+    "category": "financial",
+    "report_count": 7650,
+    "red_flags": [
+      "Recruit गर्नुपर्ने condition",
+      "Product भन्दा recruit मा focus",
+      "अग्रिम ठूलो investment",
+      "Company दर्ता नभएको",
+      "Lifestyle देखाएर लोभ्याउने"
+    ],
+    "prevention_steps": [
+      "Company को दर्ता verify गर्नुस्",
+      "Product को actual value बुझ्नुस्",
+      "Recruit based income मा शंका गर्नुस्",
+      "कानूनी सल्लाह लिनुस्",
+      "परिवारसँग सल्लाह गर्नुस्"
+    ],
+    "recovery_steps": [
+      "Department of Commerce मा उजुरी दिनुस्",
+      "प्रहरीमा FIR दर्ता गर्नुस्",
+      "Transaction proof राख्नुस्",
+      "कानूनी सहायता लिनुस्"
+    ],
+    "law_reference": "प्रतिस्पर्धा प्रवर्द्धन तथा बजार संरक्षण ऐन २०६३",
+    "helpline_numbers": ["100", "1177"],
+    "conclusion_np": "Recruit गरेमा मात्र पैसा पाइने scheme सधैं ठगी हो।"
+  },
+  {
+    "id": "fraud_028",
+    "title_np": "ट्याक्सी/राइड ठगी",
+    "title_en": "Taxi & Ride Fraud",
+    "description_np": "मिटर नलगाई अत्यधिक भाडा लिने, गलत बाटो लगेर डर देखाउने वा नक्कली ride-sharing app बाट पैसा चोर्ने ठगी।",
+    "icon_path": "assets/icons/taxi_fraud.png",
+    "severity": "medium",
+    "category": "transport",
+    "report_count": 6540,
+    "red_flags": [
+      "मिटर नलगाउने",
+      "अग्रिम अत्यधिक भाडा माग्ने",
+      "एक्लो ठाउँमा लैजाने",
+      "Phone छिन्ने धम्की",
+      "नक्कली app प्रयोग गर्ने"
+    ],
+    "prevention_steps": [
+      "Registered taxi मात्र चढ्नुस्",
+      "Plate number note गर्नुस्",
+      "परिवारलाई location share गर्नुस्",
+      "Official ride app प्रयोग गर्नुस्",
+      "एक्लो रात्रि यात्रा नगर्नुस्"
+    ],
+    "recovery_steps": [
+      "प्रहरी: 100 मा call गर्नुस्",
+      "Department of Transport मा उजुरी दिनुस्",
+      "Plate number र description दिनुस्",
+      "Evidence राख्नुस्"
+    ],
+    "law_reference": "सवारी तथा यातायात व्यवस्था ऐन २०४९",
+    "helpline_numbers": ["100", "1177"],
+    "conclusion_np": "Taxi चढ्दा plate number note गर्नुस् र location share गर्नुस्।"
+  },
+  {
+    "id": "fraud_029",
+    "title_np": "नक्कली Visa ठगी",
+    "title_en": "Fake Visa Fraud",
+    "description_np": "नक्कली visa र travel document बनाइदिने भन्दै पैसा लिने वा genuine visa process मा अत्यधिक शुल्क असुल्ने ठगी।",
+    "icon_path": "assets/icons/visa_fraud.png",
+    "severity": "critical",
+    "category": "employment",
+    "report_count": 5430,
+    "red_flags": [
+      "Embassy outside visa process",
+      "Guaranteed visa को वाचा",
+      "अत्यधिक processing fee",
+      "Original passport राख्ने",
+      "Embassy जान नदिने"
+    ],
+    "prevention_steps": [
+      "Embassy directly सम्पर्क गर्नुस्",
+      "Authorized agent मात्र प्रयोग गर्नुस्",
+      "Passport आफूसँग राख्नुस्",
+      "Official fee मात्र तिर्नुस्",
+      "DoFE मा verify गर्नुस्"
+    ],
+    "recovery_steps": [
+      "सम्बन्धित Embassy मा सूचित गर्नुस्",
+      "DoFE: 1180 मा उजुरी दिनुस्",
+      "प्रहरीमा FIR दर्ता गर्नुस्",
+      "कानूनी सहायता लिनुस्"
+    ],
+    "law_reference": "वैदेशिक रोजगार ऐन २०६४, दफा ४२",
+    "helpline_numbers": ["1180", "100"],
+    "conclusion_np": "Visa को लागि Embassy directly सम्पर्क गर्नुस् — middleman बाट सतर्क रहनुस्।"
+  },
+  {
+    "id": "fraud_030",
+    "title_np": "QR Code ठगी",
+    "title_en": "QR Code Fraud",
+    "description_np": "नक्कली QR code scan गराएर पैसा पठाउन लगाउने वा malicious website मा redirect गरेर personal information चोर्ने ठगी। Digital payment बढेसँगै यो ठगी तीव्र गतिमा बढेको छ।",
+    "icon_path": "assets/icons/qr_fraud.png",
+    "severity": "high",
+    "category": "digital",
+    "report_count": 7890,
+    "red_flags": [
+      "Receive गर्न QR scan गर्न भन्ने",
+      "Unknown QR code",
+      "Public ठाउँमा टाँसिएको QR",
+      "Amount confirm नगरी scan गर्न भन्ने",
+      "Urgent payment को दबाब"
+    ],
+    "prevention_steps": [
+      "QR scan गर्नु अगाडि destination verify गर्नुस्",
+      "Receive गर्न QR scan गर्न पर्दैन",
+      "Unknown QR scan नगर्नुस्",
+      "Amount राम्रोसँग confirm गर्नुस्",
+      "Official payment app मात्र प्रयोग गर्नुस्"
+    ],
+    "recovery_steps": [
+      "तुरुन्त बैंकमा सम्पर्क गर्नुस्",
+      "Cyber Bureau: 1177 मा उजुरी दिनुस्",
+      "Transaction screenshot राख्नुस्",
+      "Account block गर्न लगाउनुस्"
+    ],
+    "law_reference": "इलेक्ट्रोनिक कारोबार ऐन २०६३, दफा ४७",
+    "helpline_numbers": ["1177", "100"],
+    "conclusion_np": "पैसा receive गर्न कहिल्यै QR scan गर्न पर्दैन — यो सधैं ठगी हो।"
+  }
+]

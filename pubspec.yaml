@@ -1,0 +1,47 @@
+﻿name: thagi_satark
+description: "ठगी सतर्क - Nepal First AI Fraud Awareness App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  http: ^1.2.2
+  connectivity_plus: ^6.0.3
+  google_fonts: ^6.2.1
+  shimmer: ^3.0.0
+  shared_preferences: ^2.3.2
+  url_launcher: ^6.3.1
+  image_picker: ^1.1.2
+  share_plus: ^10.0.2
+  intl: ^0.19.0
+  go_router: ^14.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/data/quiz/
+    - assets/data/verify/
+    - assets/images/
+    - assets/icons/fraud_types/
+    - assets/icons/ui_icons/
+    - .env
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: 'assets/images/logo.png'
+  min_sdk_android: 21
